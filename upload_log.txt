@@ -1,0 +1,6 @@
+
+upload:Don_t smile at me and tell me whose turn it is to pull a card.mp3:6028ca86cbc53903bed246dd
+
+upload:Don_t smile at me and tell me whose turn it is to pull a card.jpg:6028ca86cbc53903bed246de
+
+add sentence:{'content': "Don't smile at me and tell me whose turn it is to pull a card", 'position': 'Text invisible', 'language': 'English - American', 'tags': 'Guava - vid', 'audio': 'Don_t smile at me and tell me whose turn it is to pull a card.mp3', 'image': 'Don_t smile at me and tell me whose turn it is to pull a card.jpg'}

@@ -1,0 +1,738 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tag",
+				"tag_id\tparam"
+			],
+			[
+				"content",
+				"content_id\tparam"
+			],
+			[
+				"reso",
+				"resource_id"
+			],
+			[
+				"input",
+				"input_excel_database\tfunction"
+			],
+			[
+				"id_",
+				"id_img\tstatement"
+			],
+			[
+				"re",
+				"resources"
+			],
+			[
+				"upade",
+				"update_resource"
+			],
+			[
+				"mian",
+				"main_classes"
+			],
+			[
+				"native",
+				"native_learned"
+			],
+			[
+				"get_",
+				"get_least_busy_teacher\tfunction"
+			],
+			[
+				"number",
+				"number_of_lessons"
+			],
+			[
+				"file",
+				"filenames\tstatement"
+			],
+			[
+				"nt",
+				"ntparttime"
+			],
+			[
+				"main",
+				"main_classes"
+			],
+			[
+				"up",
+				"upload"
+			],
+			[
+				"com",
+				"combinations"
+			],
+			[
+				"incr",
+				"increase_native_lesson_number"
+			],
+			[
+				"all",
+				"class_teacher_allocations\tstatement"
+			],
+			[
+				"less",
+				"lesson_time"
+			],
+			[
+				"start",
+				"startswith"
+			],
+			[
+				"get",
+				"get_native_percentage"
+			],
+			[
+				"off",
+				"off_combination"
+			],
+			[
+				"num",
+				"number_of_days_off"
+			],
+			[
+				"les",
+				"lesson_times"
+			],
+			[
+				"lesson",
+				"lesson_time"
+			],
+			[
+				"time",
+				"lesson_times"
+			],
+			[
+				"cl",
+				"class\tNew Class"
+			],
+			[
+				"we",
+				"week_num"
+			],
+			[
+				"class",
+				"class_code"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Team 1: Peter, Rose, Tom \ndisadvantages\nTom:\n- effective if students study (distractions)\n- not good enough\n- lack of face2face interaction\n- low quality\nRose:\n- doesn't garranty because teacher cannot know what students are doing after the screen\n- difficult to carry out tests\nPeter:\n- cannot control students\n- internet connection, noise ...\n- cannot follow the lesson completely and hard to get immediate responses from the teacher\n- wrong knowledge\n\n\nTEam 2: Linda, Vic, Logan, Lucy\nadvantages\nLucy:\n- anywhere, anytime, learn more\n- easy for making questions\n- learn and practice as long as we have a device with internet connection\nLogan:\n- lower school tuition\n- anywhere\nVic:\n- you can even learn while traveling\n- can have snacks while learning\n- find useful information on the internet\nLinda:\n- can be safe from disease speading\n- more concentrate\n- extend materials\n- see clear powerpoint slides\n- review the teaching process",
+			"settings":
+			{
+				"buffer_size": 937,
+				"line_ending": "Windows",
+				"name": "Team 1: Peter, Rose, Tom"
+			}
+		},
+		{
+			"contents": "• Cameras and microphone are always ON.\n• Must have notebooks for note taking.\n• Sit nicely in front of the camera during class time.\n• Dressing nicely as offline classes.\n• Follow teacher’s instructions completely.\n• Use English to communicate with teachers and classmates.\n• Study corner need to be quite during class time.\n• Respect teachers and friends during class time.\n• Badwords and disrespectful attitude are not allowed.\n• Complete assinged homework every lesson.",
+			"settings":
+			{
+				"buffer_size": 473,
+				"line_ending": "Windows",
+				"name": "• Cameras and microphone are always ON."
+			}
+		}
+	],
+	"build_system": "Packages/User/Python3.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install\t",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 402.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Google Drive/3. Coding/topkiddo_upload"
+	],
+	"file_history":
+	[
+		"/E/Google Drive/3. Coding/topkiddo_upload/topkiddo.py",
+		"/E/Google Drive/3. Coding/topkiddo_upload/upload_log.txt",
+		"/C/Users/K/Desktop/lib_install.py",
+		"/E/auto_upload/montreal-forced-aligner/cmd.py",
+		"/E/auto_upload/test.py",
+		"/E/auto_upload/Montreal Aligner/montreal-forced-aligner/cmd.py",
+		"/E/auto_upload/Montreal Aligner/montreal-forced-aligner/output/test/test_aligner.TextGrid",
+		"/E/auto_upload/Montreal Aligner/montreal-forced-aligner/output/oovs_found.txt",
+		"/E/auto_upload/Montreal Aligner/montreal-forced-aligner/test/Can you smile at me.txt",
+		"/E/auto_upload/Montreal Aligner/montreal-forced-aligner/aligner/command_line/align.py",
+		"/E/auto_upload/Montreal Aligner/montreal-forced-aligner/aligner/corpus.py",
+		"/E/rclone_gdrive.py",
+		"/E/auto_upload/topkiddo.py",
+		"/E/auto_upload/upload_log.txt",
+		"/E/auto_upload/note.txt",
+		"/E/auto_upload/Montreal Aligner/note.txt",
+		"/E/auto_upload/Montreal Aligner/corpus_directory/Can you smile at me.txt",
+		"/E/auto_upload/Montreal Aligner/output/corpus_directory/test2.TextGrid",
+		"/E/auto_upload/Montreal Aligner/librispeech-lexicon.txt",
+		"/E/auto_upload/Montreal Aligner/output/oovs_found.txt",
+		"/E/auto_upload/subtitle_processor.py",
+		"/home/minhthienk/Desktop/auto_upload/softAnhHung.py",
+		"/home/minhthienk/Desktop/softAnhHung.py",
+		"/home/minhthienk/Desktop/test.py",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/Coding/test.py",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/Coding/schedule.py",
+		"/usr/lib/python3/dist-packages/requests/models.py",
+		"/media/minhthienk/Data1/centeronline.py",
+		"/media/minhthienk/Data1/rclone_gdrive.py",
+		"/home/minhthienk/Desktop/Quy trình dịch vụ INS.txt",
+		"/home/minhthienk/Downloads/Quy-trình-dịch-vụ-INS.txt",
+		"/media/minhthienk/Data1/Google Drive/3. Coding/bot/lib/corpus_builder.py",
+		"/home/minhthienk/Desktop/New Release INS Dec2020",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/INS Classes/Super Teens 1/Unit 9 - My Day - Page 60 61/Lesson Content.txt",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/INS Classes/Super Teens 1/Unit 9 - My Day - Page 58 59/Lesson Content.txt",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/INS Classes/Super Teens 4/Unit 9 (Page 54 55)/Lesson Content.txt",
+		"/home/minhthienk/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/minhthienk/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/minhthienk/Desktop/updater-script",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/INS Classes/Super Teens 1/Unit 7 (46-47)/Lesson Content.txt",
+		"/tmp/kite_tutorial.py",
+		"/home/minhthienk/.config/sublime-text-3/Packages/Python Flake8 Lint/Flake8Lint.py",
+		"/home/minhthienk/.config/sublime-text-3/Packages/Python Flake8 Lint/Flake8Lint.sublime-settings",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/INS Classes/Super Teens 4/Unit 8 - (SB 46-47)/Lesson Content.txt",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/INS Classes/Super Teens 1/Unit 5 Review (1-5)/lesson content.txt",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/INS Classes/Super Teens 4/Unit 7 - (SB 44-45)/Lesson Content.txt",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/INS Classes/Super Teens 1/Unit 5 Review/lesson content.txt",
+		"/etc/cups/ppd/RICOH_Aficio_MP_4002_0026738BE475_.ppd",
+		"/media/minhthienk/Data1/Google Drive/# INS ENGLISH/Danh sách học viên - Chi nhánh INS Phước Hưng_files/sheet001.htm",
+		"/home/minhthienk/Desktop/Data/rclone_gdrive.py",
+		"/home/minhthienk/Desktop/note mind map training.txt",
+		"/media/minhthienk/Data/rclone_gdrive.py",
+		"/usr/share/templates/INS.desktop",
+		"/usr/share/templates/Word.desktop",
+		"/home/minhthienk/Desktop/org.kde.ksysguard.desktop",
+		"/etc/xdg/autostart/powerdevil.desktop",
+		"/usr/share/templates/Excel.desktop",
+		"/usr/share/templates/Power Point.desktop",
+		"/usr/share/templates/soffice.odt.desktop",
+		"/home/minhthienk/.config/gtk-3.0/settings.ini",
+		"/media/minhthienk/Data/Google Drive/# INS ENGLISH/INS Classes/IELTS/Links",
+		"/media/minhthienk/Data/SK3B3 chăm sóc phụ huynh ngày 15 11",
+		"/home/minhthienk/.config/sublime-text-3/Packages/User/Python3.sublime-build"
+	],
+	"find":
+	{
+		"height": 142.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n",
+			"json",
+			"root_pos",
+			"curl 'http://backend.topkiddovn.com/resources/get_resource_from_local?token=eyJhbGciOiJIUzI1NiJ9.NjAxNzUyNDZjYmM1MzkwM2JlZDI0Mjg2.mJ3qzE_NgsGJ_atPIw7zmEUfjYLsu4-ZuY2BO8XjEOg&resourceId=5f62157f5a9e4942249c308c&time=1612537581049' \\\n  -H 'Connection: keep-alive' \\\n  -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36' \\\n  -H 'Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8' \\\n  -H 'Referer: http://admin.topkiddovn.com/' \\\n  -H 'Accept-Language: vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5' \\\n  --compressed \\\n  --insecure ;",
+			"resourses",
+			"Gi9DzVjLJv",
+			",",
+			":",
+			"\\n",
+			"6016cd6dcbc53903bed2426d",
+			" - 03012021\t",
+			"SK2M2 - ",
+			"SK2N1 - ",
+			" - 28012021\t",
+			"SL3B4 - ",
+			"SL3F1 - ",
+			" - 29012021\t",
+			" - 16012021\t",
+			"ST1A2 - ",
+			"/html/body/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]",
+			" - 29012021",
+			"\t",
+			" - ",
+			"SL3F1 - ",
+			"/edit\" tabindex=\"0\">",
+			"\" class=\"style-scope ytcp-video-list-cell-video remove-default-style\" href=\"/video/",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label=\"",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label=.+",
+			"><",
+			"/edit\" tabindex=\"0\">",
+			"\" class=\"style-scope ytcp-video-list-cell-video remove-default-style\" href=\"/video/",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label=\"",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\".+",
+			"kookie",
+			"><",
+			"'(' + self.get_main_teacher_name(cl) + ')'  + ",
+			"+ '(' + self.get_main_teacher_name(cl) + ')'  ",
+			"cl.class_code + '(' + self.get_main_teacher_name(cl) + ')' ",
+			"get_main_teacher_name(cl).name",
+			"get_main_teacher(",
+			"cl.class_code  + ' - ' + ",
+			"cl.class_code  + ' - ' +",
+			"temp = cl.class_code ",
+			"temp = .+",
+			"/.+",
+			"sk2n",
+			"\\n",
+			"\\t",
+			"\\n",
+			".+xls\\n",
+			"'",
+			" '",
+			"  ",
+			"    ",
+			" ",
+			".+\\.",
+			"\\t\\n",
+			"\\t+",
+			" ",
+			", ",
+			"'",
+			", ",
+			"'",
+			"  ",
+			"main_teachers_classes_list",
+			"native_teacher_list",
+			"teachers_and_main_classes_list",
+			"\\n",
+			"/edit\" tabindex=\"0\">",
+			"\" class=\"style-scope ytcp-video-list-cell-video remove-default-style\" href=\"/video/",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label=\"",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label=\".+",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label.+",
+			"><",
+			"SCB2A1 - ",
+			" - 26122020\t",
+			" - 27122020\t",
+			"SK3B4 - ",
+			" - 12012021\t",
+			"SK3E1 - ",
+			"SK2B3 - ",
+			" - 09012021\t",
+			"SK2B3 - ",
+			" - 15012021\t",
+			"ST3B3 - ",
+			"-12/01/2021",
+			"-12-01-2021",
+			"SK3E1-",
+			"SCB2A1 - ",
+			"SK3B4 - ",
+			"SK1O2 - ",
+			"SK2B3 - ",
+			"ST3B3 - ",
+			"/edit\" tabindex=\"0\">",
+			"\" class=\"style-scope ytcp-video-list-cell-video remove-default-style\" href=\"/video/",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label=\"",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label.+",
+			"><",
+			"milo",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label.+",
+			"><",
+			"\\n\\n",
+			" - 26122020\t",
+			"SK1A2 - ",
+			" - 26122020\t",
+			"SCA2A2 - ",
+			" - 03012021\t",
+			"SK2M2 - ",
+			"\"",
+			"/edit\" tabindex=\"0\">",
+			" class=\"style-scope ytcp-video-list-cell-video remove-default-style\" href=\"/video/",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label=",
+			"<a id=\"thumbnail-anchor\" aria-hidden=\"false\" aria-label=.+",
+			"><",
+			"main_teacher_lesson_temp",
+			"main_teacher_lesson_number",
+			", ",
+			"\\].+",
+			"\\[.+\\[",
+			"\\t +",
+			"                       ",
+			"                        ",
+			" /.+/",
+			"\t  ",
+			"\\t +",
+			"               ",
+			"/.+/",
+			"process"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			",  ",
+			"root_row",
+			"resources",
+			"",
+			"':",
+			"\\n'",
+			"-----",
+			"",
+			"-----",
+			"",
+			"-----",
+			"",
+			"-----",
+			"",
+			"\\t",
+			"",
+			">\\n<",
+			"",
+			"\\t",
+			"",
+			">\\n<",
+			"",
+			"'(' + self.get_main_teacher_name(cl) + ')'  + cl.class_code",
+			"get_main_teacher_name(cl)",
+			"get_main_teacher_name(",
+			"cl.class_code + '(' + self.get_main_teacher(cl).name + ')'  + ' - ' +",
+			"cl.class_code + '(' + cl.teacher.name + ')'  + ' - ' +",
+			"temp = cl.class_code + '(' + cl.teacher.name + ')'",
+			"",
+			",\\n",
+			"",
+			"',\\n'",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"\\t",
+			"",
+			"\\t\\t",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"right_teachers_classes_list",
+			"native_teachers_classes_list",
+			"main_teachers_classes_list",
+			"\\n\\n",
+			"",
+			"\\t",
+			"",
+			">\\n<",
+			"",
+			"-----",
+			"",
+			"-----",
+			"",
+			"-----",
+			"",
+			"\\t",
+			"",
+			">\\n<",
+			"\\n",
+			"-----",
+			"",
+			"-----",
+			"",
+			"-----",
+			"",
+			"\\t",
+			"",
+			">\\n<",
+			"main_vn_teacher_lesson_number_temp",
+			"main_vn_teacher_lesson_number",
+			"\\n",
+			"",
+			"\\t",
+			"                       ",
+			"\\t",
+			"",
+			"\\t",
+			"             ",
+			"quy trình",
+			"\\n- ",
+			"\\n     ",
+			"     \\n",
+			"     ",
+			"\\n",
+			"",
+			"increase_learned_lesson_number",
+			"\\n[",
+			"[\\n",
+			"\\n'",
+			"[",
+			"', '",
+			"[",
+			"",
+			"\\t",
+			"",
+			"\\t",
+			"\\n",
+			"type",
+			"abc type",
+			"main_teacher_lesson_number",
+			"native_lesson_number",
+			"],\\n",
+			"],",
+			", ",
+			"\\n",
+			"number_of_more_days_off",
+			"predefined_days_off",
+			"pre_defined_days_off",
+			"Mr.Kay",
+			"get_available_number_of_teachers_in_shift",
+			"\\n\\n",
+			" ",
+			"enterenter",
+			"",
+			"\\t",
+			"\\n",
+			"\\t\\t",
+			"                   ",
+			"                                     ",
+			"\\t\\t\\t",
+			"",
+			"-----",
+			"",
+			"-----",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Team 1: Peter, Rose, Tom",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"auto_name": "• Cameras and microphone are always ON.",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 142.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 233.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "topkiddo.sublime-project",
+	"replace":
+	{
+		"height": 280.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
